@@ -1,0 +1,5 @@
+
+> sample-project@1.0.0 build-storybook
+> storybook build --output-dir /var/folders/j5/hw4b2z2d0wj2wnwb31xgp9w80000gn/T/chromatic--48265-tAJDo13Obfv5
+
+sh: storybook: command not found
